@@ -28,5 +28,4 @@ A passionate Fullstack developer from Chile.
 ![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-FF9900?style=flat&logo=aws-amplify&logoColor=white)
 
 ### GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarloAguirre&show_icons=true&theme=default)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloAguirre&layout=compact)
