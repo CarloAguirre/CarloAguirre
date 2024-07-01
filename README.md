@@ -1,6 +1,6 @@
-# Hi 👋, I'm [Tu Nombre]
+# Hi 👋, I'm Carlo.
 
-A passionate Fullstack developer from [Tu País].
+A passionate Fullstack developer from Chile.
 
 - 🌱 I’m currently learning **Angular, AWS**
 - 📫 How to reach me **carlo_aguirre@outlook.cl**
@@ -29,4 +29,4 @@ A passionate Fullstack developer from [Tu País].
 
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarloAguirre&show_icons=true&theme=default)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloAguirre&layout=compact)
