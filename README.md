@@ -2,7 +2,7 @@
 
 A passionate Fullstack developer from Chile.
 
-- 🌱 I’m currently learning **Angular, AWS**
+- 🌱 I’m currently learning **Nest**
 - 📫 How to reach me **carlo_aguirre@outlook.cl**
 
 ### Socials:
